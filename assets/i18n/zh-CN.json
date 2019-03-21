@@ -1,0 +1,16 @@
+{
+  "LANGUAGE": "English",
+  "SYSTEM_TITLE": "IOT 温湿度监控报警系统",
+  "LOGOUT": "注 销",
+  "NAV_BAR": "导航栏",
+
+  "MONITORING_MANAGEMENT": "监控管理",
+  "ALARM_MANAGEMENT": "报警管理",
+  "PRODUCT_MANAGEMENT": "产品管理",
+  "ATTRIBUTE_MANAGEMENT": "属性管理",
+  "EQUIPMENT_MANAGEMENT": "设备管理",
+  "PERSONNEL_MANAGEMENT": "人员管理",
+  "SYSTEM_SETTINGS": "系统设置",
+
+  "COMPANY": "文思海辉技术有限公司"
+}
